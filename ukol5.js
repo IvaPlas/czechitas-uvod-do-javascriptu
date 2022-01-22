@@ -1,6 +1,6 @@
 let jmeno = prompt('Ahoj, jak se jmenujes?');
 let jmenoOdpoved = jmeno;
-let vek = prompt('Kolik je ti let?');
+let vek = Number(prompt('Kolik je ti let?'));
 let vekOdpoved = vek;
 console.log(jmenoOdpoved);
 console.log(vekOdpoved);
@@ -13,7 +13,7 @@ if (vek > 18) {
 // pokus cislo dva podla andy
 let vaseJmeno = prompt('JAk se jmenujes?');
 console.log(vaseJmeno);
-let vasVek = prompt('Kolike je ti let?');
+let vasVek = Number(prompt('Kolike je ti let?'));
 console.log(vasVek);
 
 if (vasVek >= 18) {
