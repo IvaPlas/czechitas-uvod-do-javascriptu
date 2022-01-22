@@ -5,3 +5,5 @@ let muzmesic = 8
 len narozeninyzenarok = 1989
 let zenamesic = 5
 let odecitani =  
+
+//nedokoncenny ukol ||
